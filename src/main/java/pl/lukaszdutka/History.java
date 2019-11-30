@@ -9,6 +9,7 @@ public class History {
     private History(Tag origin) {
         this.origin = origin;
     }
+    //proponuje wziąć się za robotę wreszcie
 
     public static History createHistory() {
 //        Tag origin = new Tag("origin");
